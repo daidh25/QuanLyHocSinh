@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Web_MVC.Net_Core_QuanLyHocSinh.Models.DTO.Student>
+<<h1>Student List</h1>
+
+<p>
+    <a href="@Url.Action("Create")">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>StudentName</th>
+            <th>Date of Birth</th>
+            <th>Email</th>
+            <th>DiaChi</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.ID</td>
+                <td>@student.StudentName</td>
+                <td>@student.DateOfBirth.ToShortDateString()</td>
+                <td>@student.Email</td>
+                <td>@student.DiaChi</td>
+                <td>
+                    <a href="@Url.Action("Add", new { id = student.ID })">Add</a>
+                    <a href="@Url.Action("Edit", new { id = student.ID })">Edit</a> 
+                    <a href="@Url.Action("Delete", new { id = student.ID })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,8 @@
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.csproj.AssemblyReference.cache
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.AssemblyInfoInputs.cache
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.AssemblyInfo.cs
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.csproj.CoreCompileInputs.cache
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.RazorAssemblyInfo.cache
+D:\ASP\Asp.net\Web_MVC.Net_Core_QuanLyHocSinh\Web_MVC.Net_Core_QuanLyHocSinh\obj\Debug\net6.0\Web_MVC.Net_Core_QuanLyHocSinh.RazorAssemblyInfo.cs
